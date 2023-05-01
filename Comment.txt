@@ -1,0 +1,2 @@
+Comment :
+The performance improves as the block size increases, as number of blocks increase the iteration overhead (nested loops) decrease and this limit its effect on the performance
